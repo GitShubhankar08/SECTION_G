@@ -1,0 +1,20 @@
+{
+  "name": "index.js",
+  "version": "1.0.0",
+  "description": "classwork",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GitShubhankar08/SECTION_G.git"
+  },
+  "author": "Shubhankar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GitShubhankar08/SECTION_G/issues"
+  },
+  "homepage": "https://github.com/GitShubhankar08/SECTION_G#readme"
+}
